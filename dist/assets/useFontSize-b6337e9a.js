@@ -1,0 +1,1 @@
+import{aK as e,aL as a}from"./index-8d1312c5.js";import{r as n}from"./@vue-48d528d1.js";const t=n(1);function z(){return{fontSizeFactor:t,loadFontSize:()=>{t.value=e()},saveFontSize:o=>{a(o),t.value=o}}}export{z as u};
