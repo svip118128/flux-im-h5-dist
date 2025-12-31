@@ -1,0 +1,1 @@
+import{ah as s}from"./index-c5e79286.js";const r=e=>s.post("/later/pin/message/list",e),n=e=>s.post("/later/pin/message/add",e),a=e=>s.post("/later/pin/message/delete",e),o=e=>s.post("/later/group/online/count",{...e},{headers:{hideErrorToast:!0}});export{r as a,o as g,n as p,a as u};
