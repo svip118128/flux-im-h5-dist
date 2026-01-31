@@ -1,1 +1,0 @@
-import{aj as s}from"./main-612e94b4.js";const n=e=>s.post("/later/pin/message/list",e),r=e=>s.post("/later/pin/message/add",e),a=e=>s.post("/later/pin/message/delete",e),o=e=>s.post("/later/group/online/count",{...e},{_hideErrorToast:!0});export{n as a,o as g,r as p,a as u};
